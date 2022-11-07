@@ -64,3 +64,8 @@ align-items: center;
     height: 50px;
     margin-left: 10px;
 }
+
+.main{
+    height: 100vh;
+    background: purple;
+}
