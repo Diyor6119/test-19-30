@@ -44,3 +44,23 @@ ul {
     color: white;
     font-weight: 700;
 }
+
+.header__content{
+    height: 800px;
+background: black;
+display: flex;
+justify-content: center;
+align-items: center; 
+}
+
+.header__content h1{
+    color: white;
+    font-size: 50px;
+}
+.star{
+    clip-path: polygon(58% 0, 88% 28%, 69% 40%, 44% 57%, 80% 90%, 50% 100%, 20% 90%, 0% 70%, 0% 35%, 20% 10%);
+    background: yellow;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+}
